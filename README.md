@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @MwangiMuriithi
-- 👀 I’m interested in Data Analytics to discover patterns,extract insights to drive decision making.
+- 👋  Hi, I’m Mwangi Muriithi
+- 👀 I’m interested in Data Analytics to discover patterns and extract insights to drive decision making.
 - 🌱 I’m currently learning Python and Machine Learning in Python
-- 💞️ I’m looking to collaborate on real life projects for utmost impact in society through Analytics Lenses
-- 📫 How to reach me via email here in my Bio
-- 😄 Pronouns: ...
+- 💞️ I look forward to collaborate on real life projects for utmost impact in society through an Analytics Lenses
+- 📫 reach me via email here in my Bio
 - ⚡ Fun fact: Huh!Def,Numbers don't lie.
 
 <!---
