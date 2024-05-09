@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics to discover patterns and extract insights to drive decision making.
 - 🌱 I’m currently learning Python and Machine Learning in Python
 - 💞️ I look forward to collaborate on real life projects for utmost impact in society through an Analytics Lenses
-- 📫 reach me via email here in my Bio
+- 📫 You reach me via email here in my Bio
 - ⚡ Fun fact: Huh!Def,Numbers don't lie.
 
 <!---
